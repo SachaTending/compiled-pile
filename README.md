@@ -7,6 +7,5 @@ Download compiled files if you dont want to compile
  - Git(or wget with unzip) to download
  
  # TODO:
- [ ] Actual project
- 
- [ ] Built-in cdn
+ - [ ] Actual project
+ - [ ] Built-in cdn
